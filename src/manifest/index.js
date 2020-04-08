@@ -2,7 +2,7 @@ const pkg = require('../../package.json');
 
 const manifestInput = {
     manifest_version: 2,
-    name: 'Sample WebExtension',
+    name: 'Personal Data Collection',
     version: pkg.version,
 
     icons: {
